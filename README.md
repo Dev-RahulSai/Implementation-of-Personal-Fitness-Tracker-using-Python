@@ -31,7 +31,7 @@ The goal of this project is to **enhance fitness tracking accuracy and personali
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/personal-fitness-tracker.git
+   git clone https://github.com/Dev-RahulSai/Implementation-of-Personal-Fitness-Tracker-using-Python.git
    ```
 2. Navigate to the project directory:
    ```sh
